@@ -17,7 +17,7 @@
   
 <body>
 	
-<header id="header"><p>Bonjour théo   DevOps Tools Engineer. | LPI...</p></header>
+<header id="header"><p>Bonjour    DevOps Tools Engineer. | LPI...</p></header>
 	</br></br>
 
   <center> 
